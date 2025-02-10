@@ -1,1 +1,4 @@
-print('Hello world!')
+from params import PARAM1
+
+
+print("Read param:", PARAM1)
